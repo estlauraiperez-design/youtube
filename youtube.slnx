@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="youtube/youtube.vcxproj" Id="8b9f1c11-3a70-4139-bad4-66334063b38e" />
+</Solution>
